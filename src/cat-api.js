@@ -1,4 +1,4 @@
-const API_KEY = 'live_3Mnea8iNtopVC0hvGsDfEMtgOKxjswZlqkRz9krsSz70qvMXA4BaQRqrC91mtiVf';
+const API_KEY = 'live_yUmxPF0trWXyajR5pxz29s90ltG6314hp01KsszxUGbLXH1hFZGBFipTJtHKFnoJ';
 const URL = `https://api.thecatapi.com/v1/`;
 const ENDPOINT = {
     breeds: 'breeds',
